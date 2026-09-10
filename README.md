@@ -10,10 +10,12 @@ Official corporate website for **AIM Investigation Agency Private Limited**, spe
 | :--- | :--- |
 | **Company Name** | AIM Investigation Agency Private Limited |
 | **Corporate Identity Number (CIN)** | `U74909UP2025PTC220814` |
+| **GST Status** | GST Compliant B2B Invoicing (State Code: `09` - Uttar Pradesh) |
+| **Key Directors** | Amit Tyagi & Shobit Tyagi |
 | **Business Scope** | Professional Investigation & Verification Services |
 | **Core Specialization** | Health Insurance Claims, Hospital Audit & Claimant Verification |
 | **Official Phone** | `+91 9557332596` / `9557332596` |
-| **Official Email** | `infoaiminvestigation@gmail.com` |
+| **Official Emails** | `infoaiminvestigation@gmail.com` / `tyagishobit36@gmail.com` |
 | **WhatsApp Desk** | `+91 9557332596` |
 | **Registered Office** | Plot No. 59, Q-Block, Hastinapur Meerut Mawana, Meerut, Uttar Pradesh, India – 250404 |
 
