@@ -36,7 +36,7 @@ This website is built with clean, modern, pure **HTML5, CSS3, and Vanilla JavaSc
 
 ```
 AIM/
-├── index.html            # 1. Corporate Home Page (Hero, Trust Badges, Services, Risk Stats, Workflow)
+├── index.html            # 1. Corporate Home Page (Hero, Moving Companies Marquee, Services, Risk Stats, Workflow)
 ├── about.html            # 2. About Us, Mission, Vision, Values & Registration
 ├── services.html         # 3. Comprehensive Breakdown of All 9 Verification Domains
 ├── process.html          # 4. 5-Stage Investigation Lifecycle & Confidentiality Standards
