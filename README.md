@@ -14,9 +14,9 @@ Official corporate website for **AIM Investigation Agency Private Limited**, spe
 | **Key Directors** | Amit Tyagi & Shobit Tyagi |
 | **Business Scope** | Professional Investigation & Verification Services |
 | **Core Specialization** | Health Insurance Claims, Hospital Audit & Claimant Verification |
-| **Official Phone** | `+91 9557332596` / `9557332596` |
+| **Official Phone** | `+91 8755401503` / `8755401503` |
 | **Official Emails** | `infoaiminvestigation@gmail.com` / `tyagishobit36@gmail.com` |
-| **WhatsApp Desk** | `+91 9557332596` |
+| **WhatsApp Desk** | `+91 8755401503` |
 | **Registered Office** | Plot No. 59, Q-Block, Hastinapur Meerut Mawana, Meerut, Uttar Pradesh, India – 250404 |
 
 ---

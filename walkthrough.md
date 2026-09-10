@@ -12,9 +12,9 @@ We have built a premium, modern, fully responsive 5-page corporate website for *
 | **Entity Name** | AIM Investigation Agency Private Limited |
 | **Registration (CIN)** | `U74909UP2025PTC220814` |
 | **Core Domain** | Professional Investigation & Verification Services (Specializing in Health Insurance Claims) |
-| **Direct Phone** | `9557332596` / `+91 9557332596` |
-| **Direct Email** | `infoaiminvestigation@gmail.com` |
-| **WhatsApp Desk** | `+91 9557332596` |
+| **Direct Phone** | `8755401503` / `+91 8755401503` |
+| **Official Email** | `infoaiminvestigation@gmail.com` |
+| **WhatsApp Desk** | `+91 8755401503` |
 | **Registered Office** | Plot No. 59, Q-Block, Hastinapur Meerut Mawana, Meerut, Uttar Pradesh, India – 250404 |
 
 ---
@@ -84,7 +84,7 @@ AIM/
 - **5 Pillars of Confidentiality & Legal Compliance**: 256-bit encryption, strict non-disclosure, tamper-evident chains of custody, and objective report structuring.
 
 ### 5. [Contact Us (`contact.html`)](file:///c:/Users/Shamshad/Desktop/AIM/contact.html)
-- **Direct Communication Cards**: Phone (`9557332596`), Email (`infoaiminvestigation@gmail.com`), Registered Address (`Plot No. 59, Q-Block, Hastinapur Meerut Mawana, Meerut, UP – 250404`), and instant WhatsApp desk link.
+- **Direct Communication Cards**: Phone (`8755401503`), Email (`infoaiminvestigation@gmail.com`), Registered Address (`Plot No. 59, Q-Block, Hastinapur Meerut Mawana, Meerut, UP – 250404`), and instant WhatsApp desk link.
 - **Interactive Intake Form**: Validated with real-time error messaging, urgency selection, priority turnaround options, and animated submission feedback.
 - **Interactive Google Maps Embed**: Pinpointed to Hastinapur / Meerut operational district.
 
