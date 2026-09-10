@@ -11,7 +11,7 @@ Official corporate website for **AIM Investigation Agency Private Limited**, spe
 | **Company Name** | AIM Investigation Agency Private Limited |
 | **Corporate Identity Number (CIN)** | `U74909UP2025PTC220814` |
 | **GST Status** | GST Compliant B2B Invoicing (State Code: `09` - Uttar Pradesh) |
-| **Key Directors** | Amit Tyagi & Shobit Tyagi |
+| **Key Directors** | Amit Kumar & Shobit Tyagi |
 | **Business Scope** | Professional Investigation & Verification Services |
 | **Core Specialization** | Health Insurance Claims, Hospital Audit & Claimant Verification |
 | **Official Phone** | `+91 8755401503` / `8755401503` |
