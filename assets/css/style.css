@@ -2068,171 +2068,102 @@ button, input, select, textarea {
 }
 
 /* ==========================================================================
-   Moving Companies Marquee Ticker
+   Moving Companies / Our Clients Marquee (Moving Left to Right)
    ========================================================================== */
-.marquee-section {
-  background: linear-gradient(180deg, #F0F9FA 0%, #E6F4F6 100%);
-  border-top: 1px solid var(--teal-border);
-  border-bottom: 1px solid var(--teal-border);
-  padding: 34px 0 38px 0;
+.clients-marquee-section {
+  background-color: #FFFFFF;
+  padding: 56px 0 60px 0;
+  border-top: 1px solid #E6EEF2;
+  border-bottom: 1px solid #E6EEF2;
   overflow: hidden;
   position: relative;
-}
-
-.marquee-header {
   text-align: center;
-  margin-bottom: 22px;
-  padding: 0 20px;
 }
 
-.marquee-badge {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  font-size: 11px;
-  font-weight: 800;
-  letter-spacing: 0.1em;
-  text-transform: uppercase;
-  color: var(--teal-primary);
-  background: var(--white);
-  padding: 4px 14px;
-  border-radius: 9999px;
-  border: 1px solid var(--teal-border);
-  box-shadow: var(--shadow-subtle);
-  margin-bottom: 8px;
-}
-
-.marquee-title {
-  font-size: 15px;
+.clients-marquee-title {
+  font-size: 34px;
   font-weight: 700;
-  color: var(--navy-900);
-  letter-spacing: -0.01em;
-  margin: 0;
+  color: #1E293B;
+  letter-spacing: -0.02em;
+  margin: 0 0 34px 0;
+  text-align: center;
 }
 
-.marquee-title span {
-  color: var(--teal-primary);
-}
-
-.marquee-wrapper {
+.clients-marquee-wrap {
+  width: 100%;
+  overflow: hidden;
   position: relative;
-  width: 100%;
-  overflow: hidden;
   display: flex;
-  flex-direction: column;
-  gap: 14px;
-  mask-image: linear-gradient(to right, transparent 0%, black 8%, black 92%, transparent 100%);
-  -webkit-mask-image: linear-gradient(to right, transparent 0%, black 8%, black 92%, transparent 100%);
+  mask-image: linear-gradient(to right, transparent 0%, black 6%, black 94%, transparent 100%);
+  -webkit-mask-image: linear-gradient(to right, transparent 0%, black 6%, black 94%, transparent 100%);
 }
 
-.marquee-row {
+.clients-marquee-row {
   display: flex;
-  overflow: hidden;
   user-select: none;
-  gap: 16px;
+  overflow: hidden;
+  gap: 32px;
   width: 100%;
 }
 
-.marquee-row:hover .marquee-track {
+.clients-marquee-row:hover .clients-marquee-track {
   animation-play-state: paused;
 }
 
-.marquee-track {
+.clients-marquee-track {
   display: flex;
   align-items: center;
-  gap: 16px;
+  gap: 32px;
   flex-shrink: 0;
   min-width: 100%;
   will-change: transform;
-  animation: marqueeSlide 38s linear infinite;
+  animation: marqueeLeftToRight 40s linear infinite;
 }
 
-.marquee-track.reverse {
-  animation: marqueeSlideReverse 42s linear infinite;
-}
-
-@keyframes marqueeSlide {
+@keyframes marqueeLeftToRight {
   0% {
-    transform: translateX(0);
-  }
-  100% {
-    transform: translateX(calc(-100% - 16px));
-  }
-}
-
-@keyframes marqueeSlideReverse {
-  0% {
-    transform: translateX(calc(-100% - 16px));
+    transform: translateX(-50%);
   }
   100% {
     transform: translateX(0);
   }
 }
 
-.marquee-card {
-  display: inline-flex;
-  align-items: center;
-  gap: 12px;
-  background: var(--white);
-  padding: 10px 20px;
-  border-radius: 999px;
-  border: 1px solid rgba(10, 126, 140, 0.16);
-  box-shadow: 0 2px 8px rgba(7, 31, 44, 0.04);
-  white-space: nowrap;
-  transition: all 0.25s ease;
-  cursor: default;
-}
-
-.marquee-card:hover {
-  border-color: var(--teal-primary);
-  background: #FFFFFF;
-  transform: translateY(-2px);
-  box-shadow: 0 6px 16px rgba(10, 126, 140, 0.15);
-}
-
-.marquee-card-icon {
-  width: 32px;
-  height: 32px;
-  border-radius: 50%;
-  background: var(--teal-light);
-  color: var(--teal-primary);
+.client-logo-card {
   display: flex;
   align-items: center;
   justify-content: center;
+  height: 76px;
+  min-width: 210px;
+  padding: 10px 24px;
+  background: #FFFFFF;
+  border-radius: 8px;
+  border: 1px solid #EEF2F6;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.04);
+  transition: all 0.3s ease;
   flex-shrink: 0;
-  transition: all 0.25s ease;
+  cursor: default;
 }
 
-.marquee-card:hover .marquee-card-icon {
-  background: var(--teal-primary);
-  color: var(--white);
+.client-logo-card:hover {
+  transform: translateY(-3px);
+  border-color: #CBD5E1;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.08);
 }
 
-.marquee-card-icon svg {
-  width: 16px;
-  height: 16px;
-}
-
-.marquee-card-info {
-  display: flex;
-  flex-direction: column;
-  text-align: left;
-}
-
-.marquee-card-name {
-  font-size: 13.5px;
-  font-weight: 800;
-  color: var(--navy-950);
-  line-height: 1.2;
-}
-
-.marquee-card-tag {
-  font-size: 10px;
-  font-weight: 700;
-  color: var(--slate-500);
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
-  margin-top: 2px;
+@media (max-width: 768px) {
+  .clients-marquee-section {
+    padding: 38px 0 42px 0;
+  }
+  .clients-marquee-title {
+    font-size: 26px;
+    margin-bottom: 24px;
+  }
+  .client-logo-card {
+    height: 66px;
+    min-width: 180px;
+    padding: 8px 18px;
+  }
 }
 
 @media (max-width: 1024px) {
