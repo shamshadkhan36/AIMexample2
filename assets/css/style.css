@@ -376,26 +376,28 @@ button, input, select, textarea {
 .brand-logo {
   display: flex;
   align-items: center;
-  gap: 12px;
+  gap: 14px;
 }
 
 .logo-icon-box {
-  width: 48px;
-  height: 48px;
-  border-radius: var(--radius-sm);
+  width: 64px;
+  height: 64px;
+  min-width: 64px;
+  border-radius: var(--radius-md);
   background-color: var(--white);
-  padding: 3px;
+  padding: 4px;
   border: 1px solid var(--slate-200);
   box-shadow: var(--shadow-subtle);
   display: flex;
   align-items: center;
   justify-content: center;
   overflow: hidden;
-  transition: transform var(--transition-fast);
+  transition: transform var(--transition-fast), box-shadow var(--transition-fast);
 }
 
 .brand-logo:hover .logo-icon-box {
-  transform: scale(1.04);
+  transform: scale(1.05);
+  box-shadow: 0 4px 14px rgba(11, 140, 158, 0.18);
 }
 
 .logo-icon-box img {
@@ -2189,6 +2191,11 @@ button, input, select, textarea {
 }
 
 @media (max-width: 768px) {
+  .logo-icon-box {
+    width: 52px;
+    height: 52px;
+    min-width: 52px;
+  }
   .top-bar {
     display: none;
   }
