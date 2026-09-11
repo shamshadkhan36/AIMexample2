@@ -18,7 +18,7 @@ Official corporate website for **AIM Investigation Agency Private Limited**, spe
 | **Official Phone** | `+91 8368830393` / `8368830393` |
 | **Official Emails** | `infoaiminvestigation@gmail.com` / `tyagishobit36@gmail.com` |
 | **WhatsApp Desk** | `+91 8368830393` |
-| **Registered Office** | Plot No. 59, Q-Block, Hastinapur Meerut Mawana, Meerut, Uttar Pradesh, India – 250404 |
+| **Registered Office** | Plot No. 59, Q-Block, Hastinapur (Opposite Baba Mohan Ram Mandir), Tehsil Mawana, District Meerut, Uttar Pradesh, India – 250404 |
 
 ---
 

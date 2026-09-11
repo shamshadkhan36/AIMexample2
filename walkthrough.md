@@ -18,7 +18,7 @@ We have built a premium, modern, fully responsive 5-page corporate website for *
 | **Direct Phone** | `8368830393` / `+91 8368830393` |
 | **Official Email** | `infoaiminvestigation@gmail.com` |
 | **WhatsApp Desk** | `+91 8368830393` |
-| **Registered Office** | Plot No. 59, Q-Block, Hastinapur Meerut Mawana, Meerut, Uttar Pradesh, India – 250404 |
+| **Registered Office** | Plot No. 59, Q-Block, Hastinapur (Opposite Baba Mohan Ram Mandir), Tehsil Mawana, District Meerut, Uttar Pradesh, India – 250404 |
 
 ---
 
@@ -87,7 +87,7 @@ AIM/
 - **5 Pillars of Confidentiality & Legal Compliance**: 256-bit encryption, strict non-disclosure, tamper-evident chains of custody, and objective report structuring.
 
 ### 5. [Contact Us (`contact.html`)](file:///c:/Users/Shamshad/Desktop/AIM/contact.html)
-- **Direct Communication Cards**: Phone (`8368830393`), Email (`infoaiminvestigation@gmail.com`), Registered Address (`Plot No. 59, Q-Block, Hastinapur Meerut Mawana, Meerut, UP – 250404`), and instant WhatsApp desk link.
+- **Direct Communication Cards**: Phone (`8368830393`), Email (`infoaiminvestigation@gmail.com`), Registered Address (`Plot No. 59, Q-Block, Hastinapur (Opposite Baba Mohan Ram Mandir), Tehsil Mawana, District Meerut, UP – 250404`), and instant WhatsApp desk link.
 - **Interactive Intake Form**: Validated with real-time error messaging, urgency selection, priority turnaround options, and animated submission feedback.
 - **Interactive Google Maps Embed**: Pinpointed to Hastinapur / Meerut operational district.
 
@@ -96,7 +96,8 @@ AIM/
 ## 🚀 GitHub Repository Status
 
 The repository has been committed and pushed to GitHub:
-- **Repository URL**: `https://github.com/shamshadkhan36/AIMexample2.git`
+- **Primary Repository URL**: `https://github.com/aimpvtltd74-prog/aim.git`
+- **Secondary / Backup URL**: `https://github.com/shamshadkhan36/AIMexample2.git`
 - **Branch**: `main`
 - **Commit**: `feat: complete modern 5-page corporate website for AIM Investigation Agency Private Limited (pure HTML/CSS/JS)`
 - **Working Tree**: Clean, verified, and up to date.
