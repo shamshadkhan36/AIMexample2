@@ -1,0 +1,21 @@
+{
+  "name": "AIM Investigation Agency Private Limited",
+  "short_name": "AIM Agency",
+  "description": "Trusted Health Investigation & Verification Services across India",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#071F2C",
+  "theme_color": "#0B8C9E",
+  "icons": [
+    {
+      "src": "assets/images/favicon.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/images/logo.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
