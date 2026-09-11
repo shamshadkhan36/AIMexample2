@@ -1,6 +1,6 @@
-# AIM Health Investigation Agency (AIM Investigation Agency Private Limited)
+# AIM Investigation Agency (AIM Investigation Agency Private Limited)
 
-Official corporate website for **AIM Investigation Agency Private Limited**, specialized in Professional Investigation & Verification Services with a primary focus on Health Insurance Investigation Services.
+Official corporate website for **AIM Investigation Agency Private Limited**, specialized in Professional Investigation & Verification Services.
 
 ---
 
