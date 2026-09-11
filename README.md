@@ -40,8 +40,9 @@ AIM/
 ├── about.html            # 2. About Us, Mission, Vision, Values & Registration
 ├── services.html         # 3. Comprehensive Breakdown of All 9 Verification Domains
 ├── process.html          # 4. 5-Stage Investigation Lifecycle & Confidentiality Standards
-├── careers.html          # 5. Careers & Job Openings with Interactive Application Form
-├── contact.html          # 6. Direct Office Contact, Interactive Intake Form & Google Map
+├── gallery.html          # 5. Photo & Operations Evidence Gallery with Lightbox
+├── careers.html          # 6. Careers & Job Openings with Interactive Application Form
+├── contact.html          # 7. Direct Office Contact, Interactive Intake Form & Google Map
 ├── robots.txt            # Search engine crawler instructions
 ├── sitemap.xml           # XML sitemap index
 ├── assets/
@@ -52,7 +53,8 @@ AIM/
 │   └── images/
 │       ├── logo.png      # Official AIM brand logo
 │       ├── favicon.png   # Favicon icon
-│       └── office-board.jpg # Official office identity photo
+│       ├── office-board.jpg # Official office identity photo
+│       └── gallery/      # Operational photo assets and fraud investigation evidence
 └── README.md
 ```
 
