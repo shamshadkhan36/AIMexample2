@@ -7,4 +7,4 @@ Disallow: /tmp/
 Crawl-delay: 1
 
 # Sitemaps
-Sitemap: https://aiminvestigation.com/sitemap.xml
+Sitemap: https://aiminvestigation.in/sitemap.xml
