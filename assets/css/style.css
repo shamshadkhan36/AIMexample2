@@ -356,11 +356,11 @@ button, input, select, textarea {
   background-color: var(--white);
   border-bottom: 1px solid var(--slate-200);
   transition: all var(--transition-normal);
-  padding: 12px 0;
+  padding: 8px 0;
 }
 
 .main-header.scrolled {
-  padding: 10px 0;
+  padding: 6px 0;
   background-color: rgba(255, 255, 255, 0.98);
   backdrop-filter: blur(12px);
   box-shadow: 0 4px 20px rgba(7, 31, 44, 0.06);
@@ -376,16 +376,16 @@ button, input, select, textarea {
 .brand-logo {
   display: flex;
   align-items: center;
-  gap: 14px;
+  gap: 16px;
 }
 
 .logo-icon-box {
-  width: 64px;
-  height: 64px;
-  min-width: 64px;
-  border-radius: var(--radius-md);
+  width: 80px;
+  height: 80px;
+  min-width: 80px;
+  border-radius: 12px;
   background-color: var(--white);
-  padding: 4px;
+  padding: 3px;
   border: 1px solid var(--slate-200);
   box-shadow: var(--shadow-subtle);
   display: flex;
@@ -396,8 +396,8 @@ button, input, select, textarea {
 }
 
 .brand-logo:hover .logo-icon-box {
-  transform: scale(1.05);
-  box-shadow: 0 4px 14px rgba(11, 140, 158, 0.18);
+  transform: scale(1.04);
+  box-shadow: 0 6px 18px rgba(11, 140, 158, 0.2);
 }
 
 .logo-icon-box img {
@@ -414,11 +414,11 @@ button, input, select, textarea {
 .brand-title-row {
   display: flex;
   align-items: center;
-  gap: 6px;
+  gap: 7px;
 }
 
 .brand-title {
-  font-size: 20px;
+  font-size: 22px;
   font-weight: 900;
   color: var(--navy-950);
   letter-spacing: -0.02em;
@@ -426,25 +426,25 @@ button, input, select, textarea {
 }
 
 .brand-badge {
-  font-size: 10px;
+  font-size: 11px;
   font-weight: 800;
   text-transform: uppercase;
   color: var(--teal-primary);
   background-color: var(--teal-light);
-  padding: 2px 6px;
+  padding: 2px 7px;
   border-radius: 4px;
   border: 1px solid var(--teal-border);
 }
 
 .brand-subtitle {
-  font-size: 12px;
+  font-size: 13px;
   font-weight: 700;
   color: var(--teal-primary);
   line-height: 1.3;
 }
 
 .brand-focus {
-  font-size: 10px;
+  font-size: 10.5px;
   color: var(--slate-500);
   font-weight: 600;
   text-transform: uppercase;
@@ -2192,9 +2192,9 @@ button, input, select, textarea {
 
 @media (max-width: 768px) {
   .logo-icon-box {
-    width: 52px;
-    height: 52px;
-    min-width: 52px;
+    width: 62px;
+    height: 62px;
+    min-width: 62px;
   }
   .top-bar {
     display: none;
