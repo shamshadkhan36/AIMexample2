@@ -16,7 +16,7 @@ Official corporate website for **AIM Investigation Agency Private Limited**, spe
 | **Business Scope** | Professional Investigation & Verification Services |
 | **Core Specialization** | Health Insurance Claims, Hospital Audit & Claimant Verification |
 | **Official Phone** | `+91 8368830393` / `8368830393` |
-| **Official Emails** | `infoaiminvestigation@gmail.com` / `tyagishobit36@gmail.com` |
+| **Official Email** | `infoaiminvestigation@gmail.com` |
 | **WhatsApp Desk** | `+91 8368830393` |
 | **Registered Office** | Plot No. 59, Q-Block, Hastinapur (Opposite Baba Mohan Ram Mandir), Tehsil Mawana, District Meerut, Uttar Pradesh, India – 250404 |
 
